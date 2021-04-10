@@ -1,0 +1,266 @@
+@media only screen and (max-width: 900px) {
+    .carousel-1 {
+        position: static !important;
+        margin: auto !important;
+        top: auto !important;
+        right: auto !important;
+    }
+    .carousel-1,
+    .carousel-2 {
+        box-shadow: 0px 1px 8px rgb(211, 200, 200);
+        width: auto !important;
+        margin-bottom: auto !important;
+        height: auto !important;
+        background-color: white;
+    }
+
+    .carousel-2 {
+        margin-top: 5px !important;
+    }
+    .contenu-principale {
+        width: auto !important;
+        padding-bottom: auto !important;
+        padding-top: 60px;
+    }
+    .contenu-principale h3 {
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 60px !important;
+        font-weight: bold;
+    }
+    .col-md-5.header-col-2 {
+        height: auto !important;
+    }
+    .row.contenu-principale {
+        margin-top: 0px;
+    }
+
+    .carousel-2,
+    .carousel-1 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card.col-md-4.contenu-card-1,
+    .card.col-md-4.contenu-card-2,
+    .card.col-md-4.contenu-card-3 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header-col-1 {
+        height: auto !important;
+    }
+}
+body {
+    font-family: sans-serif !important;
+}
+.header {
+    width: 100% !important;
+}
+.header-col-2,
+.header-col-1 {
+    height: 320px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.header-col-1 {
+    background-color: #eaf3f2;
+}
+
+.header-col-2 {
+    background-color: #44cc80;
+}
+
+.header-col-1 h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.header-col-1-left h1 {
+    margin-bottom: 0px;
+    font-size: 98px;
+    line-height: 52px;
+    margin-top: 20px;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.sup {
+    vertical-align: super;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.devise {
+    font-size: 30px;
+    text-align: center;
+}
+
+.card-head {
+    display: flex;
+    width: 100% !important;
+}
+.card-head h3 {
+    font-size: 18px;
+    line-height: 0px;
+}
+.card-head .autor {
+    margin-left: 10px;
+}
+
+.header-col-1 {
+    padding-left: 10% !important;
+}
+
+.header-col-1-left h3 {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+footer {
+    background-color: lightseagreen;
+    padding-bottom: 40px;
+}
+
+.card-title p {
+    margin-left: 15px;
+}
+
+.card-title img {
+    width: 32%;
+    margin: 5px;
+}
+
+.carousel-1 {
+    position: relative;
+    top: 40px;
+    right: 120px;
+    width: 244px !important;
+    margin-bottom: 30px;
+    height: 222px !important;
+}
+.carousel-1,
+.carousel-2 {
+    box-shadow: 0px 1px 8px rgb(211, 200, 200);
+    width: 244px !important;
+    margin-bottom: 30px;
+    height: 222px !important;
+    background-color: white;
+}
+
+.carousel-2 {
+    margin-top: 39px !important;
+}
+
+.footer-link {
+    margin-bottom: 20px;
+}
+.footer-link a {
+    color: white !important;
+    font-size: 14px;
+    text-decoration: none;
+}
+legend {
+    text-align: center;
+}
+
+label,
+.content p,
+h4,
+.copyright {
+    color: white;
+    font-family: "Courier New", Courier, monospace !important;
+}
+
+.copyright {
+    text-align: center;
+}
+
+label {
+    margin-bottom: 0px !important;
+    margin-top: 40px;
+}
+
+h3 {
+    margin-bottom: 30px !important;
+}
+
+h4 {
+    margin-top: 30px !important;
+    margin-bottom: 10px !important;
+    font-size: 20px !important;
+}
+
+input {
+    border-bottom: 1px solid white !important;
+    background-color: lightseagreen !important;
+    border-radius: 0px !important;
+    border-top: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+}
+
+.row {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.content {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+
+.content p {
+    font-size: 14px;
+}
+.btn-danger {
+    background-color: orangered !important;
+}
+#submitBtn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: orangered;
+    border: 0px;
+}
+
+.footer-header {
+    border-bottom: 1px solid rgb(218, 215, 215);
+}
+
+.contenu-principale {
+    width: 70%;
+    padding-bottom: 90px;
+    padding-top: 60px;
+}
+.contenu-principale h3 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 60px !important;
+    font-weight: bold;
+}
+form h3 {
+    margin: 0px !important;
+}
+form h3,
+.content h3 {
+    color: white;
+}
+
+.btn {
+    width: 100% !important;
+    margin-bottom: 30px;
+}
+.card {
+    box-shadow: 0px 1px 5px rgb(211, 200, 200);
+
+    margin-right: 60px;
+
+    width: 247px !important;
+    margin-bottom: 30px;
+    height: 340px;
+}
